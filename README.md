@@ -7,4 +7,17 @@
 # Pedro Pinheiro
 <sub> *Applied Mathematics student* at Universidade Federal Fluminense</sub>
 
+As a Applied Mathematics student, i have been able to merge not only the technical and practical knowledge of statistics and programming, but the mathematical thinking as well.Now i'm seeking opportunities to apply the knowledge and skills i have.
+
+
+**Background in:** Python, R, Machine Learning, Mathematical Thinking.
+
+**Links:**
+*[LinkedIn](https://www.linkedin.com/in/pedro-pinheiro-928845225/)
+*[Medium](https://medium.com/@pedropm_41717)
+
+## Projetos:
+
+
+
 ---
