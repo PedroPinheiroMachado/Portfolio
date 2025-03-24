@@ -4,5 +4,7 @@
   <img src="banner.png" >
 </p>
 
+# Pedro Pinheiro
+<sub> *Applied Mathematics student* at Universidade Federal Fluminense</sub>
 
 ---
