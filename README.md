@@ -18,6 +18,6 @@ As a Applied Mathematics student, i have been able to merge not only the technic
 
 ## Projetos:
 
-*[Airbnb Roma](bit.ly/4hHXQzZ)
+*[Airbnb Roma](https://bit.ly/4hGzBSH)
 
 ---
