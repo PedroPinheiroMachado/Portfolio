@@ -13,8 +13,7 @@ As a Applied Mathematics student, i have been able to merge not only the technic
 **Background in:** Python, R, Machine Learning, Mathematical Thinking.
 
 **Links:**
-*[LinkedIn](https://www.linkedin.com/in/pedro-pinheiro-928845225/)
-
+*[LinkedIn](https://www.linkedin.com/in/pedro-pinheiro-928845225/)|
 *[Medium](https://medium.com/@pedropm_41717)
 
 ## Projetos:
