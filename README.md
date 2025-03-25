@@ -17,6 +17,6 @@ As a Applied Mathematics student, I have been able to merge not only the technic
 
 ## Projetos:
 
-*[Airbnb Roma](https://colab.research.google.com/drive/1e2fo5qmTnD9qQr-hyFS0GQehfOnCQdWL?usp=drive_link)
+*[Airbnb Roma](https://bit.ly/4j45hmh)
 
 ---
