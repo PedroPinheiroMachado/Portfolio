@@ -1,23 +1,51 @@
-<p align="center">
-
-[![author](https://img.shields.io/badge/author-pedro-red)](https://www.linkedin.com/in/pedro-pinheiro-928845225/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Pedro-PinheiroUff/Portfolio/issues)
-
+<p align="right">
+  <a href="#english-version">🇺🇸 English</a> | <a href="#versão-em-português">🇧🇷 Português</a>
 </p>
 
+![Banner](https://i.imgur.com/seu-banner.png)
 
-# Pedro Pinheiro
-<sub> *Applied Mathematics student* at Universidade Federal Fluminense</sub>
+<h1 align="center">Hi! 👋 I'm Pedro Pinheiro</h1>
 
-As a Applied Mathematics student, I have been able to merge not only the technical and practical knowledge of statistics and programming, but the mathematical thinking as well. Now I'm seeking opportunities to apply the knowledge and skills I have.
+<p align="center">
+🎓 Applied Mathematics student at <strong>Universidade Federal Fluminense</strong><br>
+📊 Passionate about <strong>Finance</strong>, <strong>Data Analysis</strong>, and <strong>Quantitative Methods</strong><br>
+💻 Exploring <strong>Python</strong>, <strong>Machine Learning</strong>, and <strong>Algorithmic Trading</strong><br>
+🚀 Always learning, building, and solving real-world problems
+</p>
 
+---
 
-**Background in:** Python, R, Machine Learning, Mathematical Thinking.
+### 🧰 Tech Stack
 
-**Links:**
-*[LinkedIn](https://www.linkedin.com/in/pedro-pinheiro-928845225/) | *[Medium](https://medium.com/@pedropm_41717)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## Projetos:
+---
 
-*[Airbnb Roma](https://bit.ly/4j45hmh)
+### 📈 GitHub Stats
+
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-PinheiroUff&show_icons=true&theme=radical)
+
+![Pedro's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pedro-PinheiroUff&theme=radical)
+
+---
+
+### 📂 Projects
+
+- [📊 Airbnb Roma Analysis](https://bit.ly/4j45hmh) — Exploratory data analysis using Python and visualization tools  
+- *(More projects coming soon!)*
+
+---
+
+### 🔗 Links
+
+- [💼 LinkedIn](https://www.linkedin.com/in/pedro-pinheiro-928845225/)  
+- [✍️ Medium](https://medium.com/@pedropm_41717)
 
 ---
