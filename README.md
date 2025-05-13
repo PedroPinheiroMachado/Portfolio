@@ -1,5 +1,3 @@
-![Banner](https://i.imgur.com/seu-banner.png)
-
 <h1 align="center">Hi! 👋 I'm Pedro Pinheiro</h1>
 
 <p align="center">
