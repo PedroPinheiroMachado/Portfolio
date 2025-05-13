@@ -1,7 +1,3 @@
-<p align="right">
-  <a href="#english-version">🇺🇸 English</a> | <a href="#versão-em-português">🇧🇷 Português</a>
-</p>
-
 ![Banner](https://i.imgur.com/seu-banner.png)
 
 <h1 align="center">Hi! 👋 I'm Pedro Pinheiro</h1>
