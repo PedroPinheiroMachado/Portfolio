@@ -1,11 +1,13 @@
 <h1 align="center">Hi! 👋 I'm Pedro Pinheiro</h1>
 
-<p align="center">
-🎓 Applied Mathematics student at <strong>Universidade Federal Fluminense</strong><br>
-📊 Passionate about <strong>Finance</strong>, <strong>Data Analysis</strong>, and <strong>Quantitative Methods</strong><br>
-💻 Exploring <strong>Python</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Inteligence</strong><br>
-🚀 Always trying to be my best version
-</p>
+<div align="center">
+  <div style="display: inline-block; text-align: left;">
+    <p>🎓 Applied Mathematics student at <strong>Universidade Federal Fluminense</strong><br>
+    📊 Passionate about <strong>Finance</strong>, <strong>Data Analysis</strong>, and <strong>Quantitative Methods</strong><br>
+    💻 Exploring <strong>Python</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong><br>
+    🚀 Always trying to be my best version</p>
+  </div>
+</div>
 
 ---
 
