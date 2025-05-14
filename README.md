@@ -11,6 +11,7 @@
 
 ---
 
+
 ### 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,3 +46,7 @@
 - [✍️ Medium](https://medium.com/@pedropm_41717)
 
 ---
+
+## 📫 Contact
+
+- [![Email](https://img.shields.io/badge/email-pedropm%40id.uff.br-red?style=flat&logo=gmail)](mailto:pedropm@id.uff.br)
