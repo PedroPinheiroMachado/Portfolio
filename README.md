@@ -37,6 +37,7 @@
 
 - [📊 Airbnb Roma Analysis](https://bit.ly/4j45hmh) — Exploratory data analysis using Python and visualization tools  
 - [📊 Credit Card Fraud Detection Analysis](http://bit.ly/4kkaE19) — Machine learning-based credit card fraud analysis with performance evaluation in Python
+- [📊 Churn Prediction Analysis](https://bit.ly/44JfHnj) — Machine learning-based customer churn prediction with performance evaluation in Python
 - *(More projects coming soon!)*
   
 
