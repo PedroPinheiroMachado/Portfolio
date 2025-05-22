@@ -38,7 +38,9 @@
 - [📊 Airbnb Roma Analysis](https://bit.ly/4j45hmh) — Exploratory data analysis using Python and visualization tools  
 - [📊 Credit Card Fraud Detection Analysis](http://bit.ly/4kkaE19) — Machine learning-based credit card fraud analysis with performance evaluation in Python
 - [📊 Churn Prediction Analysis](https://bit.ly/44JfHnj) — Machine learning-based customer churn prediction with performance evaluation in Python
+- [🍽️ Web Scraping - Comida di Buteco](https://bit.ly/44PCzla) — Automated data extraction from the Comida di Buteco website using Python and BeautifulSoup
 - *(More projects coming soon!)*
+  
   
 
 ---
