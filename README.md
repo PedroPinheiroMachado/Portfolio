@@ -5,7 +5,6 @@
     <p>🎓 Applied Mathematics student at <strong>Universidade Federal Fluminense</strong><br>
     📊 Passionate about <strong>Finance</strong>, <strong>Data Analysis</strong>, and <strong>Quantitative Methods</strong><br>
     💻 Exploring <strong>Python</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong><br>
-    🚀 Always trying to be my best version</p>
   </div>
 </div>
 
