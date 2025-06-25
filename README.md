@@ -27,7 +27,6 @@
 
 ### 📈 GitHub Stats
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroPinheiroMachado&show_icons=true&theme=radical)
 
 ![Pedro's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PedroPinheiroMachado&theme=radical)
 
