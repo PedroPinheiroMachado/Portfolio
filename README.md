@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 I'm Pedro Pinheiro</h1>
+<h1 align="center">I'm Pedro Pinheiro</h1>
 
 <div align="center">
   <div style="display: inline-block; text-align: left;">
